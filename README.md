@@ -1,4 +1,5 @@
 ### Work GitHub: [PawelKopel](https://github.com/PawelKopel)
+### GitLab: [PKopel](https://gitlab.com/PKopel)
 
 <!--
 **PKopel/PKopel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
